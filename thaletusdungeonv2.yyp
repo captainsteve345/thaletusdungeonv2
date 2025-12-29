@@ -104,6 +104,7 @@
     {"id":{"name":"FAST Database Manual","path":"notes/FAST Database Manual/FAST Database Manual.yy",},},
     {"id":{"name":"__FASTtool","path":"objects/__FASTtool/__FASTtool.yy",},},
     {"id":{"name":"oCharSelect","path":"objects/oCharSelect/oCharSelect.yy",},},
+    {"id":{"name":"oCombatManager","path":"objects/oCombatManager/oCombatManager.yy",},},
     {"id":{"name":"oController_World","path":"objects/oController_World/oController_World.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"oStartScreen","path":"objects/oStartScreen/oStartScreen.yy",},},

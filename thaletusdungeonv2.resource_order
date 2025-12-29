@@ -84,6 +84,7 @@
     {"name":"FAST Database Manual","order":3,"path":"notes/FAST Database Manual/FAST Database Manual.yy",},
     {"name":"__FASTtool","order":4,"path":"objects/__FASTtool/__FASTtool.yy",},
     {"name":"oCharSelect","order":4,"path":"objects/oCharSelect/oCharSelect.yy",},
+    {"name":"oCombatManager","order":5,"path":"objects/oCombatManager/oCombatManager.yy",},
     {"name":"oPlayer","order":1,"path":"objects/oPlayer/oPlayer.yy",},
     {"name":"oStartScreen","order":2,"path":"objects/oStartScreen/oStartScreen.yy",},
     {"name":"oTransition","order":3,"path":"objects/oTransition/oTransition.yy",},
