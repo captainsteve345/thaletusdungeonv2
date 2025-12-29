@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ease_in_out_circ",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ease_in_out_circ",
+  "parent":{
+    "name":"Circ",
+    "path":"folders/FAST/Numbers/Functions/ease/Circ.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

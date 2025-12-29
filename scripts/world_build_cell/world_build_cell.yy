@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"world_build_cell",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"world_build_cell",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

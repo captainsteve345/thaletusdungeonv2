@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"LehmerRandomizer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"LehmerRandomizer",
+  "parent":{
+    "name":"Constructors",
+    "path":"folders/FAST/Numbers/Constructors.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

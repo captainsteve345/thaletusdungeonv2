@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Surface",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Surface",
+  "parent":{
+    "name":"Drawing",
+    "path":"folders/FAST/Core/Constructors/Drawing.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

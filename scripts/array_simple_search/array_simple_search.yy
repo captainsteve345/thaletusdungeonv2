@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"array_simple_search",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"array_simple_search",
+  "parent":{
+    "name":"array",
+    "path":"folders/FAST/Core/Functions/array.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

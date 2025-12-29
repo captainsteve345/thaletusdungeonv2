@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__Struct__",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__Struct__",
+  "parent":{
+    "name":"Abstract",
+    "path":"folders/FAST/Core/Abstract.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

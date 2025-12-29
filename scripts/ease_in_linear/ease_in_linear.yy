@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ease_in_linear",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ease_in_linear",
+  "parent":{
+    "name":"Linear",
+    "path":"folders/FAST/Numbers/Functions/ease/Linear.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

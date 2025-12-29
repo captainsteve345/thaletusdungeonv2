@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"DatabaseExpression",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"DatabaseExpression",
+  "parent":{
+    "name":"Constructors",
+    "path":"folders/FAST/Database/Constructors.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

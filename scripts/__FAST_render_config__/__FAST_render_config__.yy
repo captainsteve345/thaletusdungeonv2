@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__FAST_render_config__",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__FAST_render_config__",
+  "parent":{
+    "name":"Render",
+    "path":"folders/FAST/Render.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

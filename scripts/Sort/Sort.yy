@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Sort",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Sort",
+  "parent":{
+    "name":"Sort",
+    "path":"folders/FAST/Core/Constructors/Sort.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

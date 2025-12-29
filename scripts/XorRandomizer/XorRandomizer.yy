@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"XorRandomizer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"XorRandomizer",
+  "parent":{
+    "name":"Constructors",
+    "path":"folders/FAST/Numbers/Constructors.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

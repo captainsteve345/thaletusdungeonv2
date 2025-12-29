@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"array_quicksort",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"array_quicksort",
+  "parent":{
+    "name":"array",
+    "path":"folders/FAST/Core/Functions/array.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

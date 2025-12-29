@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Well512Randomizer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Well512Randomizer",
+  "parent":{
+    "name":"Constructors",
+    "path":"folders/FAST/Numbers/Constructors.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

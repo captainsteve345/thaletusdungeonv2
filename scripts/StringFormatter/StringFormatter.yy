@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"StringFormatter",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"StringFormatter",
+  "parent":{
+    "name":"Strings",
+    "path":"folders/FAST/Core/Constructors/Strings.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

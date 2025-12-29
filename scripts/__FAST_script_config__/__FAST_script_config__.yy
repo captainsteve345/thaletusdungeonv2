@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__FAST_script_config__",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__FAST_script_config__",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/FAST/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

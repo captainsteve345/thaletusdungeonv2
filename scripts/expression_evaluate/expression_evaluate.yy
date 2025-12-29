@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"expression_evaluate",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"expression_evaluate",
+  "parent":{
+    "name":"expression",
+    "path":"folders/FAST/Core/Functions/expression.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

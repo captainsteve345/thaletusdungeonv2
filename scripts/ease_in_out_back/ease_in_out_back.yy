@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ease_in_out_back",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ease_in_out_back",
+  "parent":{
+    "name":"Back",
+    "path":"folders/FAST/Numbers/Functions/ease/Back.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

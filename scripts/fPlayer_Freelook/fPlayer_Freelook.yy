@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"fPlayer_Freelook",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"fPlayer_Freelook",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

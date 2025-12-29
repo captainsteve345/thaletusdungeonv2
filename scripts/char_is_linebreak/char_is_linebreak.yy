@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"char_is_linebreak",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"char_is_linebreak",
+  "parent":{
+    "name":"char",
+    "path":"folders/FAST/Core/Functions/char.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

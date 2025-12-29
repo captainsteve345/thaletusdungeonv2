@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ease_in_out_cubic",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ease_in_out_cubic",
+  "parent":{
+    "name":"Cubic",
+    "path":"folders/FAST/Numbers/Functions/ease/Cubic.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

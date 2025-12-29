@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__FAST_database_config__",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__FAST_database_config__",
+  "parent":{
+    "name":"Database",
+    "path":"folders/FAST/Database.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__FAST_config__",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__FAST_config__",
+  "parent":{
+    "name":"System",
+    "path":"folders/FAST/Core/System.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

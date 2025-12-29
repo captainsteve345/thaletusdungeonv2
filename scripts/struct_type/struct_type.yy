@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"struct_type",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"struct_type",
+  "parent":{
+    "name":"type",
+    "path":"folders/FAST/Core/Functions/type.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

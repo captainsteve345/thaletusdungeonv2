@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__FAST_logging_config__",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__FAST_logging_config__",
+  "parent":{
+    "name":"Logging",
+    "path":"folders/FAST/Logging.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

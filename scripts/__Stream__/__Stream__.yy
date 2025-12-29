@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__Stream__",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__Stream__",
+  "parent":{
+    "name":"Abstract",
+    "path":"folders/FAST/Core/Abstract.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

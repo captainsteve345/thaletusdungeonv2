@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ScriptEngine",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ScriptEngine",
+  "parent":{
+    "name":"Constructors",
+    "path":"folders/FAST/Scripts/Constructors.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

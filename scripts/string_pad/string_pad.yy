@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"string_pad",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"string_pad",
+  "parent":{
+    "name":"string",
+    "path":"folders/FAST/Core/Functions/string.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

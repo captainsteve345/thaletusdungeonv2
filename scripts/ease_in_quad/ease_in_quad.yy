@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ease_in_quad",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ease_in_quad",
+  "parent":{
+    "name":"Quad",
+    "path":"folders/FAST/Numbers/Functions/ease/Quad.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ease_in_out_expo",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ease_in_out_expo",
+  "parent":{
+    "name":"Expo",
+    "path":"folders/FAST/Numbers/Functions/ease/Expo.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"string_from_time",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"string_from_time",
+  "parent":{
+    "name":"string",
+    "path":"folders/FAST/Core/Functions/string.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

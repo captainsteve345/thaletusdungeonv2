@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"fPlayer_Turn_Smooth",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"fPlayer_Turn_Smooth",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

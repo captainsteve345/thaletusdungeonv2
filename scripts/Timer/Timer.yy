@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Timer",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Timer",
+  "parent":{
+    "name":"Timing",
+    "path":"folders/FAST/Core/Constructors/Timing.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

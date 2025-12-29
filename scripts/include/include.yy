@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"include",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"include",
+  "parent":{
+    "name":"include",
+    "path":"folders/FAST/Core/Functions/include.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__Randomizer__",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__Randomizer__",
+  "parent":{
+    "name":"Abstract",
+    "path":"folders/FAST/Numbers/Abstract.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

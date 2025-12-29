@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"log_notify",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"log_notify",
+  "parent":{
+    "name":"Functions",
+    "path":"folders/FAST/Logging/Functions.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"DeltaEvent",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"DeltaEvent",
+  "parent":{
+    "name":"Timing",
+    "path":"folders/FAST/Core/Constructors/Timing.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"fTransition_FadeToRoom",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"fTransition_FadeToRoom",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

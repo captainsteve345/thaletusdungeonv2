@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Vec2",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Vec2",
+  "parent":{
+    "name":"Constructors",
+    "path":"folders/FAST/Numbers/Constructors.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
