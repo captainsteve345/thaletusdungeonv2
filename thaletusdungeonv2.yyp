@@ -106,6 +106,7 @@
     {"id":{"name":"oCharSelect","path":"objects/oCharSelect/oCharSelect.yy",},},
     {"id":{"name":"oCombatManager","path":"objects/oCombatManager/oCombatManager.yy",},},
     {"id":{"name":"oController_World","path":"objects/oController_World/oController_World.yy",},},
+    {"id":{"name":"oControllerWorldUI","path":"objects/oControllerWorldUI/oControllerWorldUI.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"oStartScreen","path":"objects/oStartScreen/oStartScreen.yy",},},
     {"id":{"name":"oTransition","path":"objects/oTransition/oTransition.yy",},},
